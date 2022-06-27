@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-QFramework.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\_UE4Projects\Framework\Intermediate\Build\Win64\FrameworkEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\_UE4Projects\Framework\Plugins\QFramework\Intermediate\Build\Win64\UnrealEditor\Development\QFramework\QFramework.cpp.obj"
+"D:\_UE4Projects\Framework\Plugins\QFramework\Intermediate\Build\Win64\UnrealEditor\Development\QFramework\Default.rc2.res"
+/OUT:"D:\_UE4Projects\Framework\Plugins\QFramework\Intermediate\Build\Win64\UnrealEditor\Development\QFramework\UnrealEditor-QFramework.lib"

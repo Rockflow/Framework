@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\_ue4projects\\framework\\plugins\\qframework\\source\\qframework\\private\\qframework.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\_ue4projects\\framework\\intermediate\\build\\win64\\frameworkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\_ue4projects\\framework\\plugins\\qframework\\intermediate\\build\\win64\\unrealeditor\\development\\qframework\\definitions.qframework.h",
+            "d:\\_ue4projects\\framework\\plugins\\qframework\\source\\qframework\\public\\qframework.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
